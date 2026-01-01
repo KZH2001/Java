@@ -44,7 +44,7 @@ public class Sum {
 	private void showMessage(String message) {
 		System.out.println("--------------------");
 		System.out.println(message);
-		System.out.println("--------------------");
+		System.out.println("-----------------------");
 	}
 	
 	//get user input
